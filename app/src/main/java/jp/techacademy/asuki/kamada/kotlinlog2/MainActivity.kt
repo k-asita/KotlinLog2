@@ -155,7 +155,7 @@ class MainActivity : AppCompatActivity() {
         val str = i.toString() + " * 100 = ${ i * 100}"
         Log.d("kotlintest", str)
 
-        val
+        
 
 
 
